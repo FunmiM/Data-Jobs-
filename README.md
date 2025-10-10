@@ -12,6 +12,7 @@ Data Engineer – 129K postings
 Data Analyst – 113K postings
 Data Scientist – 98K postings
 
+
 💰 Salaries & Compensation
 Median Yearly Salary (All Roles): $113K
 Highest Paying Roles:
